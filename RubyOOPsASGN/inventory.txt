@@ -1,0 +1,5 @@
+id2,wer,qwer,34,45id1,pencil,bensia,10,60
+id3,dress,skirt,400,4
+22,purse,woodland,5500,19
+12,qee,34fwf,34,45
+33,5,7,8,8
