@@ -1,0 +1,7 @@
+# Program for checking whether string Start with "st" or checking if its end with "rt"
+Puts "Enter string to check if it starts with 'st'"
+	STstr=gets
+        if STstr=~/\Ast/
+		puts "Yess it does start with 'st'"
+	else
+		puts "No it does'nt"

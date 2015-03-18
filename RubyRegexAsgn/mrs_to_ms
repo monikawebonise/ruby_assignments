@@ -1,0 +1,5 @@
+puts "Enter the Sentence"
+sentence=gets
+sentence.sub(/Mrs/,"Ms")
+puts sentence
+
